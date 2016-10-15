@@ -1,2 +1,2 @@
 # Python
-python programs that i've made for learning the language
+python programs that i've made to learn the language
